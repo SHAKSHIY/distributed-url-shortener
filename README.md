@@ -25,7 +25,7 @@ A high-performance, distributed URL shortener built using **Go** and **Redis**, 
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yuvrajvirdi/distributed-url-shortener.git
+   git clone https://github.com/SHAKSHIY/distributed-url-shortener.git
    cd distributed-url-shortener
    ```
 2. Install dependencies:
